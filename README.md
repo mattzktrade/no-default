@@ -27,3 +27,5 @@ The app is TanStack Start with Nitro, deployed on Vercel from GitHub.
 3. Set `RESEND_API_KEY` so `/contact` and `/chat` can email `matt@no-default.com`. Verify the domain in Resend so mail can send from that address.
 
 Contact forms fall back to a mailto link if sending fails.
+
+After a deploy, `npm run indexnow` pings Bing (and other IndexNow engines) with the sitemap URLs. Google does not use IndexNow.

@@ -3,6 +3,7 @@ import { resolve } from "node:path";
 import { describe, expect, it } from "vitest";
 import { SITE } from "@/lib/content";
 import { guides } from "@/lib/guides";
+import { INDEXNOW_KEY, indexNowKeyLocation, indexNowPayload } from "@/lib/indexnow";
 import { absoluteUrl, iconLinks, isFoodChrome, publicPaths, siteGraphLd, sitemapXml } from "@/lib/seo";
 
 const publicDir = resolve(process.cwd(), "public");
@@ -44,6 +45,16 @@ describe("discovery files", () => {
     expect(robots).toContain("Sitemap: https://no-default.com/sitemap.xml");
     expect(robots).toContain("OAI-SearchBot");
     expect(robots).not.toContain("nodefault.co.uk");
+  });
+
+  it("hosts an IndexNow key file that matches the ping payload", () => {
+    const keyFile = readFileSync(resolve(publicDir, `${INDEXNOW_KEY}.txt`), "utf8").trim();
+    expect(keyFile).toBe(INDEXNOW_KEY);
+    expect(indexNowKeyLocation()).toBe(`https://no-default.com/${INDEXNOW_KEY}.txt`);
+    const payload = indexNowPayload();
+    expect(payload.host).toBe("no-default.com");
+    expect(payload.urlList).toEqual(publicPaths().map((path) => absoluteUrl(path)));
+    expect(payload.urlList.length).toBeGreaterThanOrEqual(16);
   });
 
   it("uses absolute URLs and the live email in llms.txt", () => {
