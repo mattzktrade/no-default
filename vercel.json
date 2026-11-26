@@ -1,0 +1,11 @@
+{
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "www.no-default.com" }],
+      "destination": "https://no-default.com/:path*",
+      "permanent": true
+    }
+  ]
+}

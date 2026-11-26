@@ -1,0 +1,53 @@
+# no default (No Default Systems)
+
+> UK company that acts as an in-house tech team for small and medium businesses. We replace messy stacks of SaaS tools, spreadsheets and manual processes with one custom, connected business system the client owns outright, then stay on to support and improve it. We also build and look after websites for UK pubs, cafés, restaurants and takeaways.
+
+- Site: https://no-default.com
+- Email: matt@no-default.com
+- Founder: Matt Johnson
+- Mark: the letters "nd" on a dark square
+- Logo: https://no-default.com/icon-512.png
+
+## Who we help
+- Established UK businesses, typically 10–150 staff and £1m–£25m turnover, with no internal IT or development team.
+- Common sectors: wholesale and distribution, trade suppliers, manufacturers, events and hospitality, construction and trades, professional services.
+- Separately: independent UK pubs, cafés, restaurants and takeaways that need a website they do not have to run themselves.
+
+## Problems we solve
+- Same data typed into several tools (CRM, spreadsheets, Xero, delivery notes).
+- Manually chasing invoices and payments.
+- Slow quotes and contracts (replacing PandaDoc / DocuSign with built-in quoting and e-signing).
+- Customers ordering by phone and email (replaced with a self-serve trade portal).
+- Month-end reporting by copying spreadsheets (replaced with live dashboards).
+- Paying per-seat for many half-used subscriptions (Salesforce, Monday, Zapier, etc.).
+
+## Origin
+Founded by Matt Johnson after rebuilding his own employer's software: replacing Salesforce, DocuSign, PandaDoc, an outreach tool and third-party ticketing with one system including a CRM, e-signatures, booking forms, automated outreach, a trade portal, Xero payment sync with overdue reminders, branded event ticketing, PDF brochure generation and a connected website. Hollis Interiors and The Hare & Lantern on the website are coded demos, not clients.
+
+## Pricing
+- Systems audit: £1,500 one-off (credited if the client proceeds).
+- Builds: from £8,000 per fixed-scope stage. First working piece typically in 3–6 weeks.
+- Ongoing in-house tech team: from £2,500 per month.
+- Clients own the code and data. No per-seat fees.
+
+## Websites for pubs, cafés, restaurants and takeaways
+A separate, simpler service for UK food and drink businesses: one hands-off plan where we build, run and update the website when the owner sends a message.
+- £79 per month, everything included (not VAT registered, so no VAT to add). Price fixed for the first 12 months.
+- Includes design and build, hosting, security, backups, support and maintenance, unlimited small menu/price/hours updates, local SEO, Google Business Profile help, a booking or enquiry form and a what's-on page.
+- One standard .co.uk, .uk or .com domain and email forwarding included. Premium domains and mailboxes (Microsoft 365 / Google Workspace) charged at cost.
+- No setup fee. 3-month minimum term, then monthly with 30 days' notice. Paid by Direct Debit; sites are paused when a payment is 14 days overdue.
+- Ownership: the site is licensed while on the plan and becomes the customer's after 12 monthly payments. Leaving earlier, the site comes down unless they pay the months left to reach 12. Domain and content are always the customer's.
+- Typically live in about 2 weeks once we have the menu, photos and domain access. No tech skills needed.
+- Details: https://no-default.com/pubs-restaurants · https://no-default.com/terms
+
+## Pages
+- https://no-default.com/ : overview, interactive examples, cost calculator, FAQ
+- https://no-default.com/solutions : problems and the systems that fix them
+- https://no-default.com/story : how the business started
+- https://no-default.com/pricing
+- https://no-default.com/guides : first-hand notes on custom systems and pub websites
+- https://no-default.com/pubs-restaurants : websites for pubs, cafés, restaurants and takeaways, £79/month
+- https://no-default.com/terms : plain-English terms for the pub & food website plan
+- https://no-default.com/privacy
+- https://no-default.com/chat : book a free chat about a pub, café or restaurant website
+- https://no-default.com/contact : book a free 30-minute chat about a custom business system
